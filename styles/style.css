@@ -146,4 +146,10 @@ body {
     .presentacion__contenido{
         width: auto;
     }
+
+    #imagen_te_esperamos {
+        width: 100%; 
+        height: auto; 
+        max-width: 100%; 
+      }
 }
